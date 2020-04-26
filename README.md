@@ -19,3 +19,7 @@ Improvements to note
 - Comments added before each section of the page
 
 - Indented all lines of code to improve readability
+
+Screenshot
+--------------------------------------------------------
+![Untitled](https://user-images.githubusercontent.com/63271368/80313682-598b3080-87a1-11ea-807e-35065f2d172a.png)
